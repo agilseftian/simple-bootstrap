@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Poppins:wght@400;500;600;700;800&display=swap');
+
+* {
+    font-family: 'Poppins', sans-serif;;
+}
+
+.container a {
+    font-size: 30px;
+}
+
+.container .btn {
+    border-radius: 0;
+    width: 180px;
+    height: 50px;
+}
+
+.container-hero {
+    margin-top: 70px;
+}
+
+.container-hero .image-hero img {
+    height: 450px;
+    margin-left: 30px;
+    border-radius: 30px;
+    
+}
+
+.content {
+    margin-top: 50px;
+}
+
+.hero-heading {
+    font-size: 64px;
+    width: 300px;
+}
+
+.sub-heading-hero {
+    font-size: 24px ;
+}
+
+.desk-hero {
+    font-size: 20px;
+    width: 433px;
+}
+
+.icon img{
+    margin-right: 15px;
+}
